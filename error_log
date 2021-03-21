@@ -1,0 +1,29 @@
+[07-Apr-2020 10:09:45 Etc/GMT] PHP Notice:  Undefined index: id in /home/padmaiyp/public_html/busbooking/book_bus.php on line 13
+[07-Apr-2020 10:09:45 Etc/GMT] PHP Notice:  Undefined index: date in /home/padmaiyp/public_html/busbooking/book_bus.php on line 14
+[07-Apr-2020 10:09:45 Etc/GMT] PHP Notice:  Undefined variable: source in /home/padmaiyp/public_html/busbooking/book_bus.php on line 171
+[07-Apr-2020 10:09:45 Etc/GMT] PHP Notice:  Undefined variable: destination in /home/padmaiyp/public_html/busbooking/book_bus.php on line 177
+[07-Apr-2020 10:27:08 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/padmaiyp/public_html/busbooking/index.php on line 109
+[07-Apr-2020 10:27:08 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/padmaiyp/public_html/busbooking/index.php on line 110
+[07-Apr-2020 10:27:08 Etc/GMT] PHP Notice:  Undefined variable: name in /home/padmaiyp/public_html/busbooking/index.php on line 132
+[07-Apr-2020 10:39:20 Etc/GMT] PHP Notice:  Undefined variable: name in /home/padmaiyp/public_html/busbooking/view_buses.php on line 248
+[07-Apr-2020 10:39:29 Etc/GMT] PHP Notice:  Undefined variable: name in /home/padmaiyp/public_html/busbooking/view_booking.php on line 173
+[07-Apr-2020 10:50:27 Etc/GMT] PHP Notice:  Undefined index: name in /home/padmaiyp/public_html/busbooking/view_booking.php on line 128
+[07-Apr-2020 11:59:45 Etc/GMT] PHP Notice:  Undefined index: userId in /home/padmaiyp/public_html/busbooking/index.php on line 3
+[07-Apr-2020 12:41:41 Etc/GMT] PHP Notice:  Undefined index: userId in /home/padmaiyp/public_html/busbooking/index.php on line 3
+[07-Apr-2020 12:41:42 Etc/GMT] PHP Notice:  Undefined index: userId in /home/padmaiyp/public_html/busbooking/index.php on line 3
+[07-Apr-2020 12:42:03 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/padmaiyp/public_html/busbooking/view_buses.php on line 283
+[07-Apr-2020 12:46:06 Etc/GMT] PHP Notice:  Undefined index: userId in /home/padmaiyp/public_html/busbooking/index.php on line 3
+[07-Apr-2020 12:46:07 Etc/GMT] PHP Notice:  Undefined index: userId in /home/padmaiyp/public_html/busbooking/index.php on line 3
+[07-Apr-2020 12:48:05 Etc/GMT] PHP Notice:  Undefined index: userId in /home/padmaiyp/public_html/busbooking/index.php on line 3
+[07-Apr-2020 12:51:33 Etc/GMT] PHP Notice:  Undefined variable: name in /home/padmaiyp/public_html/busbooking/book_bus.php on line 273
+[07-Apr-2020 12:51:35 Etc/GMT] PHP Notice:  Undefined variable: name in /home/padmaiyp/public_html/busbooking/book_bus.php on line 273
+[07-Apr-2020 12:52:21 Etc/GMT] PHP Notice:  Undefined index: id in /home/padmaiyp/public_html/busbooking/book_bus.php on line 13
+[07-Apr-2020 12:52:21 Etc/GMT] PHP Notice:  Undefined index: date in /home/padmaiyp/public_html/busbooking/book_bus.php on line 14
+[07-Apr-2020 12:52:21 Etc/GMT] PHP Notice:  Undefined variable: source in /home/padmaiyp/public_html/busbooking/book_bus.php on line 172
+[07-Apr-2020 12:52:21 Etc/GMT] PHP Notice:  Undefined variable: destination in /home/padmaiyp/public_html/busbooking/book_bus.php on line 178
+[07-Apr-2020 12:52:21 Etc/GMT] PHP Notice:  Undefined variable: name in /home/padmaiyp/public_html/busbooking/book_bus.php on line 273
+[07-Apr-2020 12:53:15 Etc/GMT] PHP Notice:  Undefined index: userId in /home/padmaiyp/public_html/busbooking/index.php on line 3
+[07-Apr-2020 12:53:24 Etc/GMT] PHP Notice:  Undefined index: userId in /home/padmaiyp/public_html/busbooking/index.php on line 3
+[07-Apr-2020 12:53:34 Etc/GMT] PHP Notice:  Undefined index: userId in /home/padmaiyp/public_html/busbooking/index.php on line 3
+[07-Apr-2020 12:53:51 Etc/GMT] PHP Notice:  Undefined index: userId in /home/padmaiyp/public_html/busbooking/index.php on line 3
+[07-Apr-2020 12:55:42 Etc/GMT] PHP Notice:  Undefined index: userId in /home/padmaiyp/public_html/busbooking/view_booking.php on line 3
